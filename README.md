@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/HubSpot/pace">Load bar at the top</a> for <a href="https://github.com/theme-next">NexT</a></h1>
+<h1 align="center"><a href="https://github.com/HubSpot/pace">Progress bar</a> for <a href="https://github.com/theme-next">NexT</a></h1>
 
 <h1 align="center">Installation</h1>
 
@@ -25,7 +25,8 @@ $ git clone https://github.com/theme-next/theme-next-pace source/lib/pace
 Enable module in **NexT** `_config.yml` file:
 
 ```yml
-pace: true
+pace:
+  enable: true
 ```
 
 <h1 align="center">Update</h1>
